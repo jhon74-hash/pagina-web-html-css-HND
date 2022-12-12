@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="home" unicode="&#xe800;" d="M786 296v-267q0-15-11-25t-25-11h-214v214h-143v-214h-214q-15 0-25 11t-11 25v267q0 1 0 2t0 2l321 264 321-264q1-1 1-4z m124 39l-34-41q-5-5-12-6h-2q-7 0-12 3l-386 322-386-322q-7-4-13-3-7 1-12 6l-35 41q-4 6-3 13t6 12l401 334q18 15 42 15t43-15l136-113v108q0 8 5 13t13 5h107q8 0 13-5t5-13v-227l122-102q6-4 6-12t-4-13z" horiz-adv-x="928.6" />
+
+<glyph glyph-name="truck" unicode="&#xe801;" d="M357 64q0 29-21 51t-50 21-50-21-22-51 22-50 50-21 50 21 21 50z m-214 286h214v143h-88q-7 0-12-5l-109-109q-5-5-5-12v-17z m714-286q0 29-21 51t-50 21-50-21-22-51 22-50 50-21 50 21 21 50z m143 607v-571q0-8-2-15t-8-10-9-6-13-4-13-1-14 0-12 0q0-59-42-101t-101-42-101 42-42 101h-214q0-59-42-101t-101-42-101 42-42 101h-36q-1 0-12 0t-15 0-12 1-13 4-9 6-8 10-2 15q0 15 10 25t25 11v178q0 5 0 20t0 21 2 19 3 21 8 17 13 17l110 110q11 11 28 18t33 7h89v107q0 15 11 26t25 10h571q15 0 25-10t11-26z" horiz-adv-x="1000" />
+
+<glyph glyph-name="menu" unicode="&#xf0c9;" d="M857 100v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 25t25 11h785q15 0 26-11t10-25z m0 286v-72q0-14-10-25t-26-10h-785q-15 0-25 10t-11 25v72q0 14 11 25t25 10h785q15 0 26-10t10-25z m0 285v-71q0-14-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 26t25 10h785q15 0 26-10t10-26z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook-squared" unicode="&#xf308;" d="M696 779q67 0 114-48t47-113v-536q0-66-47-113t-114-48h-104v333h111l16 129h-127v83q0 31 13 46t51 16l68 1v115q-35 5-100 5-75 0-121-44t-45-127v-95h-112v-129h112v-333h-297q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>
