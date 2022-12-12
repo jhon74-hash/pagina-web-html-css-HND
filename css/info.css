@@ -1,0 +1,46 @@
+
+.info{
+    background: rgba(51, 51, 51, 0.76);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    max-width: 100%;
+}
+
+.info .contendor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info h3{
+    font-size: 40px;
+}
+
+.info-pet{
+    margin: 30px;
+}
+
+.info-pet img{
+    width: 210px;
+    height: 150px;
+    border-radius: 20px;
+    border: 3px solid white;
+}
+
+.info-pet img:hover{
+    transform: scale(1.03);
+    transition: all 0.5s ease;
+}
+
+@media (max-width:768px){
+    .info h3{
+        font-size: 25px;
+    }
+}
+
+@media (min-width:1024px){
+    .info-pet{
+        width: auto;
+    }
+}

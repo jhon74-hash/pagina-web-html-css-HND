@@ -1,0 +1,127 @@
+.target{
+    background: radial-gradient(rgba(255, 0, 0, 0.507), rgba(0, 0, 0, 0.507));
+}
+
+.target h2{
+    font-size: 40px;
+    text-align: center;
+    color: red;
+    padding-top: 55px;
+    margin: auto;
+}
+.target p{
+    font-size: 17px ;
+    text-align: center;
+    margin: auto;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    background: rgb(255, 92, 92);
+    width: 300px;
+    height: 450px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.card-image{
+    background-color: blue;
+    height: 180px;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card-1{
+    background-image: url(IMG/cursos\ y\ formacion.png);
+}
+
+.card-2{
+    background-image: url(IMG/tu\ negocio\ mas\ digital.png);
+}
+
+.card-3{
+    background-image: url(IMG/programa\ de\ reconocimiento.png);
+}
+
+.card-4{
+    background-image: url(IMG/programa\ hinode\ pluss.png);
+}
+
+.card h3{
+    
+    padding-top: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.card p{
+    padding: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+}
+
+.card a{
+    background-color: red;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 80px;
+    margin-top: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+.card a:hover{
+    background-color: rgba(25,25,25,0.9);
+    border: 2px solid white;
+}
+.card:hover{
+    background-color: rgba(25,25,25,0.9);
+    color: white;
+    transform: scale(1.03);
+    transition: all 0.5s ease;
+}
+
+@media (max-width:1024px){
+    .target h2{
+        font-size: 30px;
+    }
+
+    .target p{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:768px){
+    .target h2{
+        font-size: 25px;
+    }
+    .target p{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:330px){
+    .target p{
+        font-size: 0px;
+    }
+
+    .card{
+        height: 330px;
+    }
+
+    .target h3{
+        font-size: 15px;
+    }
+
+    .card a{
+        font-size: 10px;
+    }
+}
